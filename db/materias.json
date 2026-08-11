@@ -1,0 +1,569 @@
+[
+  {
+    "id": "22fb1412-1e9c-432a-8629-553be3cfcf2a",
+    "nombre": "Inglés I",
+    "codigo": "ING1",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "1"
+  },
+  {
+    "id": "aef7c750-8d78-419f-ad53-93f1a91a018a",
+    "nombre": "Actividades de Orientación",
+    "codigo": "ACT1",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "1"
+  },
+  {
+    "id": "1d5b446d-9f6a-4a24-bbd5-ff16c0a4432f",
+    "nombre": "Matemática I",
+    "codigo": "MAT1",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "1"
+  },
+  {
+    "id": "1032c830-b868-48c7-92bc-e2c5f28aad03",
+    "nombre": "Lenguaje y Comunicación",
+    "codigo": "LEN1",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "1"
+  },
+  {
+    "id": "8d3b9e84-aebf-4efd-995d-45dccfc5ef93",
+    "nombre": "Educación Física y Deporte",
+    "codigo": "EDU1",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "1"
+  },
+  {
+    "id": "a1d879af-6281-45db-9652-47d42e5d056f",
+    "nombre": "Estructuras Discretas I",
+    "codigo": "EST1",
+    "profesor": "Por asignar",
+    "colorHex": "#8b5cf6",
+    "horarios": [],
+    "semestre": "1"
+  },
+  {
+    "id": "2ab96a9c-54e9-4561-aee2-3e74ae3db48a",
+    "nombre": "Inglés II",
+    "codigo": "ING2",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "2"
+  },
+  {
+    "id": "603dfd98-33b5-4cd2-9518-33d4786af9bf",
+    "nombre": "Dibujo",
+    "codigo": "DIB2",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "2"
+  },
+  {
+    "id": "3e6dc568-82f8-40a3-b84d-f96f275dce45",
+    "nombre": "Matemática II",
+    "codigo": "MAT2",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "2"
+  },
+  {
+    "id": "eeef21ed-5c7a-4bf1-83ef-8311d9dde29a",
+    "nombre": "Química",
+    "codigo": "QUÍ2",
+    "profesor": "Por asignar",
+    "colorHex": "#ec4899",
+    "horarios": [],
+    "semestre": "2"
+  },
+  {
+    "id": "ee62f1a3-3144-4a2c-84e3-c9a7bf05a81d",
+    "nombre": "Física I",
+    "codigo": "FÍS2",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "2"
+  },
+  {
+    "id": "7d4769a5-02b9-4b95-a61f-32dddfef13c4",
+    "nombre": "Introducción a la Computación",
+    "codigo": "INT2",
+    "profesor": "Por asignar",
+    "colorHex": "#ec4899",
+    "horarios": [],
+    "semestre": "2"
+  },
+  {
+    "id": "a0996f93-af3b-4f1f-b3b4-bf9a1f477a4b",
+    "nombre": "Laboratorio de Inglés",
+    "codigo": "LAB3",
+    "profesor": "Por asignar",
+    "colorHex": "#ef4444",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "9c2edc5e-f102-476f-81d6-8025ae756516",
+    "nombre": "Metodología de Investigación I",
+    "codigo": "MET3",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "231c474e-680a-41e3-a42d-ac93832e80fa",
+    "nombre": "Estadística",
+    "codigo": "EST3",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "632f1525-f23e-435a-a01e-8a5e3344c1eb",
+    "nombre": "Matemática III",
+    "codigo": "MAT3",
+    "profesor": "Por asignar",
+    "colorHex": "#ef4444",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "6c2cd992-ddd1-4ab7-be14-dbf48a4cbda5",
+    "nombre": "Álgebra Lineal",
+    "codigo": "ÁLG3",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "78497662-6e15-485a-b560-4e0ae0b02e15",
+    "nombre": "Física II",
+    "codigo": "FÍS3",
+    "profesor": "Por asignar",
+    "colorHex": "#f59e0b",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "36d2305e-d846-4b1e-992e-b0b50650f9fc",
+    "nombre": "Computación para Ingenieros",
+    "codigo": "COM3",
+    "profesor": "Por asignar",
+    "colorHex": "#84cc16",
+    "horarios": [],
+    "semestre": "3"
+  },
+  {
+    "id": "5377fe3f-1fc3-480c-93cb-899ecafa50c0",
+    "nombre": "Metodología de Investigación II",
+    "codigo": "MET4",
+    "profesor": "Por asignar",
+    "colorHex": "#84cc16",
+    "horarios": [],
+    "semestre": "4"
+  },
+  {
+    "id": "29cdcac9-c5d0-4697-a97f-88895f65d26b",
+    "nombre": "Matemática IV",
+    "codigo": "MAT4",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "4"
+  },
+  {
+    "id": "a7a73c38-19f9-4475-bedc-97cb27d7fcf9",
+    "nombre": "Circuitos Eléctricos I",
+    "codigo": "CIR4",
+    "profesor": "Por asignar",
+    "colorHex": "#ef4444",
+    "horarios": [],
+    "semestre": "4"
+  },
+  {
+    "id": "ce2b3fa8-8104-45b9-9241-73b87b10d18c",
+    "nombre": "Programación I",
+    "codigo": "PRO4",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "4"
+  },
+  {
+    "id": "e5231f51-1851-4fed-816a-e5fff749fe37",
+    "nombre": "Estructuras Discretas II",
+    "codigo": "EST4",
+    "profesor": "Por asignar",
+    "colorHex": "#8b5cf6",
+    "horarios": [],
+    "semestre": "4"
+  },
+  {
+    "id": "a6a9a1ce-5e4c-4dd9-b410-fe5b42b827c1",
+    "nombre": "Introducción a los Sistemas",
+    "codigo": "INT4",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "4"
+  },
+  {
+    "id": "2c90208b-2c7f-4ff4-a7ff-b8dfee560d44",
+    "nombre": "Análisis Numérico",
+    "codigo": "ANÁ5",
+    "profesor": "Por asignar",
+    "colorHex": "#ec4899",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "ca615471-cf92-4cf8-8a63-68fa061eb36d",
+    "nombre": "Análisis de Señales",
+    "codigo": "ANÁ5",
+    "profesor": "Por asignar",
+    "colorHex": "#ef4444",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "a2fa28a2-8849-43b4-8faf-d676ede6e8af",
+    "nombre": "Circuitos Eléctricos II",
+    "codigo": "CIR5",
+    "profesor": "Por asignar",
+    "colorHex": "#84cc16",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "f11b180b-331e-4da0-a0b7-fca48c960bc7",
+    "nombre": "Programación II",
+    "codigo": "PRO5",
+    "profesor": "Por asignar",
+    "colorHex": "#8b5cf6",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "0530c898-98a5-48e1-959b-b8ce49561d98",
+    "nombre": "Estructuras de Datos I",
+    "codigo": "EST5",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "ac902733-82f8-4397-ae47-0137404ecd77",
+    "nombre": "Teoría de Sistemas I",
+    "codigo": "TEO5",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "a1a9457d-d981-42d9-9c9e-8be88fad4cd5",
+    "nombre": "Gerencia, Liderazgo y Emprendimiento",
+    "codigo": "GER5",
+    "profesor": "Por asignar",
+    "colorHex": "#8b5cf6",
+    "horarios": [],
+    "semestre": "5"
+  },
+  {
+    "id": "029765b7-c04c-41e0-8e90-80d7f0d41df2",
+    "nombre": "Teoría de Control I",
+    "codigo": "TEO6",
+    "profesor": "Por asignar",
+    "colorHex": "#8b5cf6",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "8c836ebc-ae0a-4c7a-9bcf-1cdb2d75bdd2",
+    "nombre": "Electrónica I",
+    "codigo": "ELE6",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "96f76e7f-8f6e-41a5-aed2-d9923e9988a3",
+    "nombre": "Lógica de Computación",
+    "codigo": "LÓG6",
+    "profesor": "Por asignar",
+    "colorHex": "#84cc16",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "c7d67dee-b895-4ccc-92ed-98738b8902c4",
+    "nombre": "Lenguaje de Programación",
+    "codigo": "LEN6",
+    "profesor": "Por asignar",
+    "colorHex": "#14b8a6",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "9a213d95-aa62-4ce2-82f6-03a3248e6276",
+    "nombre": "Estructuras de Datos II",
+    "codigo": "EST6",
+    "profesor": "Por asignar",
+    "colorHex": "#ec4899",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "aac0b1fb-e961-467f-9123-2b4d97932f43",
+    "nombre": "Teoría de Sistemas II",
+    "codigo": "TEO6",
+    "profesor": "Por asignar",
+    "colorHex": "#ef4444",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "5d8a69c9-8a5a-432e-abf2-802216131cc4",
+    "nombre": "Creatividad e Innovación",
+    "codigo": "CRE6",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "6"
+  },
+  {
+    "id": "4697694e-09f2-40d5-b547-630bca8a25b6",
+    "nombre": "Teoría de Control II",
+    "codigo": "TEO7",
+    "profesor": "Por asignar",
+    "colorHex": "#14b8a6",
+    "horarios": [],
+    "semestre": "7"
+  },
+  {
+    "id": "7a907e12-aa79-43dd-b8fb-b8fc473478b2",
+    "nombre": "Electrónica II",
+    "codigo": "ELE7",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "7"
+  },
+  {
+    "id": "0fbb1341-3e8d-48b2-afc1-c063cb0b3e66",
+    "nombre": "Circuitos Digitales",
+    "codigo": "CIR7",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "7"
+  },
+  {
+    "id": "b7cf1516-b87b-4d06-bb2e-33ce08435dc4",
+    "nombre": "Autómatas y Lenguajes Formales",
+    "codigo": "AUT7",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "7"
+  },
+  {
+    "id": "7613cc83-6671-4abe-802a-0ff09296216a",
+    "nombre": "Sistemas Operativos",
+    "codigo": "SIS7",
+    "profesor": "Por asignar",
+    "colorHex": "#14b8a6",
+    "horarios": [],
+    "semestre": "7"
+  },
+  {
+    "id": "7cd8714d-d0d3-4830-9e96-121d652d82fd",
+    "nombre": "Diseño de Software",
+    "codigo": "DIS7",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "7"
+  },
+  {
+    "id": "b4301582-e72c-42ad-8211-7a1678aa27bb",
+    "nombre": "Proyectos de Investigación",
+    "codigo": "PRO8",
+    "profesor": "Por asignar",
+    "colorHex": "#ec4899",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "87e4dabf-504a-44ce-ba08-c4cc3021dd25",
+    "nombre": "Laboratorio de Instrumentación y Control",
+    "codigo": "LAB8",
+    "profesor": "Por asignar",
+    "colorHex": "#14b8a6",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "aefbb2c0-171b-4b95-8028-b8509775c5e9",
+    "nombre": "Gestión Ambiental",
+    "codigo": "GES8",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "4b0c66f5-8bd5-4024-a534-a18421b0cd14",
+    "nombre": "Fundamento para el Diseño con Microprocesadores",
+    "codigo": "FUN8",
+    "profesor": "Por asignar",
+    "colorHex": "#f59e0b",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "c98051c7-ef9a-4486-b147-6f000753623d",
+    "nombre": "Inteligencia Artificial",
+    "codigo": "INT8",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "03dd6506-bac0-4daf-ab3f-2d7f585c9811",
+    "nombre": "Teleproceso",
+    "codigo": "TEL8",
+    "profesor": "Por asignar",
+    "colorHex": "#14b8a6",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "f8bb63c5-5677-4dab-a44a-b4f1910c7458",
+    "nombre": "Análisis de Algoritmo",
+    "codigo": "ANÁ8",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "5f28c525-18df-4385-bad8-0d69c00dfc95",
+    "nombre": "Electiva I",
+    "codigo": "ELE8",
+    "profesor": "Por asignar",
+    "colorHex": "#3b82f6",
+    "horarios": [],
+    "semestre": "8"
+  },
+  {
+    "id": "6a7dad05-6f39-47e5-8d1a-8b34dcfa8bce",
+    "nombre": "Seminario de Trabajo de Grado",
+    "codigo": "SEM9",
+    "profesor": "Por asignar",
+    "colorHex": "#84cc16",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "17f45089-f374-49cc-876c-359179ae7bcc",
+    "nombre": "Técnicas de Mantenimiento y Control",
+    "codigo": "TÉC9",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "323ed8d3-8b3c-4951-aec5-1f16502443d9",
+    "nombre": "Diseño con Microprocesadores",
+    "codigo": "DIS9",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "28544391-e8c4-47c2-80b7-c5d56381f7ec",
+    "nombre": "Robótica",
+    "codigo": "ROB9",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "cd4a6f37-d2c1-4625-8136-ee5f19b837df",
+    "nombre": "Ética, Valores y Ciudadanía",
+    "codigo": "ÉTI9",
+    "profesor": "Por asignar",
+    "colorHex": "#ec4899",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "6a8983b4-1ff4-48f2-a4ae-ec39e778f9ee",
+    "nombre": "Higiene y Seguridad Industrial",
+    "codigo": "HIG9",
+    "profesor": "Por asignar",
+    "colorHex": "#f97316",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "3c7bf956-ac12-4978-8a71-d3fee0304d85",
+    "nombre": "Electiva II",
+    "codigo": "ELE9",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "983bbd2c-6625-4a44-9e68-0af25ebd7803",
+    "nombre": "Ejercicio Legal de la Ingeniería",
+    "codigo": "EJE9",
+    "profesor": "Por asignar",
+    "colorHex": "#10b981",
+    "horarios": [],
+    "semestre": "9"
+  },
+  {
+    "id": "957f3069-2888-4788-9b61-a459af0bb705",
+    "nombre": "Pasantías",
+    "codigo": "PAS10",
+    "profesor": "Por asignar",
+    "colorHex": "#6366f1",
+    "horarios": [],
+    "semestre": "10"
+  },
+  {
+    "id": "68a123a9-8507-4fbe-ab7c-2106ccf17489",
+    "nombre": "Trabajo de Grado",
+    "codigo": "TRA10",
+    "profesor": "Por asignar",
+    "colorHex": "#8b5cf6",
+    "horarios": [],
+    "semestre": "10"
+  }
+]

@@ -1,0 +1,535 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-07-05T12:41:24.001Z",
+  "data": {
+    "clientes": [
+      {
+        "nombre": "Panaderia San Benito",
+        "rif": "",
+        "canal": "supermercado",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "ubicacion_gmaps": "",
+        "estado": true,
+        "id": "MR7PU88A-ODW0GB",
+        "createdAt": "2026-07-05T11:36:37.162Z",
+        "updatedAt": "2026-07-05T11:36:37.162Z"
+      }
+    ],
+    "proveedores": [
+      {
+        "nombre": "Supermercado Rio",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PKPR2-QY795U",
+        "createdAt": "2026-07-05T11:29:13.310Z",
+        "updatedAt": "2026-07-05T11:29:13.310Z"
+      },
+      {
+        "nombre": "Cooperativa de Alimentos Ujano",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PL8D2-B5K964",
+        "createdAt": "2026-07-05T11:29:37.430Z",
+        "updatedAt": "2026-07-05T11:29:37.430Z"
+      },
+      {
+        "nombre": "Todo Pollo",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "Carrera 27 entre calle 21 y 22",
+        "estado": true,
+        "id": "MR7PQGEN-ZG6NSF",
+        "createdAt": "2026-07-05T11:33:41.135Z",
+        "updatedAt": "2026-07-05T11:33:41.135Z"
+      },
+      {
+        "nombre": "Mari pepa",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PQXHA-P9MSNF",
+        "createdAt": "2026-07-05T11:34:03.262Z",
+        "updatedAt": "2026-07-05T11:34:03.262Z"
+      },
+      {
+        "nombre": "Saraplats",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PRZFC-HB96OA",
+        "createdAt": "2026-07-05T11:34:52.440Z",
+        "updatedAt": "2026-07-05T11:34:52.440Z"
+      },
+      {
+        "nombre": "ComoDcasa",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7Q0GWR-BT5O7C",
+        "createdAt": "2026-07-05T11:41:28.347Z",
+        "updatedAt": "2026-07-05T11:41:28.347Z"
+      }
+    ],
+    "materias_primas": [
+      {
+        "nombre": "Carne para mechar",
+        "unidad": "kg",
+        "punto_reorden": 0,
+        "proveedor_id": "MR7PKPR2-QY795U",
+        "estado": true,
+        "costo_promedio": 11.14,
+        "stock_actual": 0,
+        "id": "MR7PV6TV-F3K7P9",
+        "createdAt": "2026-07-05T11:37:22.003Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "nombre": "Milanesa de Pollo",
+        "unidad": "kg",
+        "punto_reorden": 0,
+        "proveedor_id": "MR7PQGEN-ZG6NSF",
+        "estado": true,
+        "costo_promedio": 5.95,
+        "stock_actual": 0,
+        "id": "MR7PVZ3G-IP619M",
+        "createdAt": "2026-07-05T11:37:58.636Z",
+        "updatedAt": "2026-07-05T11:37:58.636Z"
+      },
+      {
+        "nombre": "Carne Molida",
+        "unidad": "kg",
+        "punto_reorden": 0,
+        "proveedor_id": "MR7PKPR2-QY795U",
+        "estado": true,
+        "costo_promedio": 9.99,
+        "stock_actual": 0,
+        "id": "MR7PWJID-WVTAPN",
+        "createdAt": "2026-07-05T11:38:25.093Z",
+        "updatedAt": "2026-07-05T11:38:25.093Z"
+      },
+      {
+        "nombre": "Envase 500gr",
+        "unidad": "und",
+        "punto_reorden": 0,
+        "proveedor_id": "MR7PRZFC-HB96OA",
+        "estado": true,
+        "costo_promedio": 0.1,
+        "stock_actual": 0,
+        "id": "MR7Q2RKM-OIK905",
+        "createdAt": "2026-07-05T11:43:15.478Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "nombre": "Etiqueta Frontal",
+        "unidad": "und",
+        "punto_reorden": 0,
+        "proveedor_id": null,
+        "estado": true,
+        "costo_promedio": 0,
+        "stock_actual": 0,
+        "id": "MR7Q5G3T-JO8BCI",
+        "createdAt": "2026-07-05T11:45:20.585Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "nombre": "Etiqueta Identificacion",
+        "unidad": "und",
+        "punto_reorden": 0,
+        "proveedor_id": null,
+        "estado": true,
+        "costo_promedio": 0,
+        "stock_actual": 0,
+        "id": "MR7Q69CY-6DY3SJ",
+        "createdAt": "2026-07-05T11:45:58.498Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "nombre": "Aliño ComoDcasa",
+        "unidad": "L",
+        "punto_reorden": 0,
+        "proveedor_id": "MR7Q0GWR-BT5O7C",
+        "estado": true,
+        "costo_promedio": 1,
+        "stock_actual": 0,
+        "id": "MR7QOHAB-QN5U7U",
+        "createdAt": "2026-07-05T12:00:08.579Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "nombre": "Pasta de Tomate",
+        "unidad": "L",
+        "punto_reorden": 0,
+        "proveedor_id": null,
+        "estado": true,
+        "costo_promedio": 5.291,
+        "stock_actual": 0,
+        "id": "MR7QTN6X-K8YVW7",
+        "createdAt": "2026-07-05T12:04:09.513Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "nombre": "Comino",
+        "unidad": "g",
+        "punto_reorden": 0,
+        "proveedor_id": null,
+        "estado": true,
+        "costo_promedio": 0.0187,
+        "stock_actual": 0,
+        "id": "MR7QWLH9-OVGEG6",
+        "createdAt": "2026-07-05T12:06:27.261Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      }
+    ],
+    "productos": [
+      {
+        "nombre": "Bandeja Carne Mechada 500gr",
+        "descripcion": "Carne Mechada",
+        "unidad": "unidad",
+        "costo_produccion": 5.2112,
+        "precios": {
+          "mayorista": 0,
+          "detal": 9.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 7,
+        "id": "MR7Q8GFX-5V3CCJ",
+        "createdAt": "2026-07-05T11:47:40.989Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "nombre": "Bandeja Pollo Mechado 500gr",
+        "descripcion": "Bandeja de Pollo Mechado 500 gramos",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 8.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QAHIO-DV5XSF",
+        "createdAt": "2026-07-05T11:49:15.696Z",
+        "updatedAt": "2026-07-05T11:53:01.910Z"
+      },
+      {
+        "nombre": "Bandeja Salsa Boloña 500gr",
+        "descripcion": "",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 8,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QC06Q-ABTYJL",
+        "createdAt": "2026-07-05T11:50:26.546Z",
+        "updatedAt": "2026-07-05T11:53:14.398Z"
+      },
+      {
+        "nombre": "Bandeja Cazon 500gr",
+        "descripcion": "",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 8.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QD9WJ-LPSY70",
+        "createdAt": "2026-07-05T11:51:25.795Z",
+        "updatedAt": "2026-07-05T11:53:25.959Z"
+      },
+      {
+        "nombre": "Bandeja Caraotas negras 500gr",
+        "descripcion": "",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 3,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QDWHW-YPJTYM",
+        "createdAt": "2026-07-05T11:51:55.076Z",
+        "updatedAt": "2026-07-05T11:53:37.199Z"
+      },
+      {
+        "nombre": "Bandeja de Pernil 500gr",
+        "descripcion": "",
+        "unidad": "bandeja",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 9.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QGY1S-4H82M3",
+        "createdAt": "2026-07-05T11:54:17.056Z",
+        "updatedAt": "2026-07-05T11:54:17.056Z"
+      }
+    ],
+    "empleados": [],
+    "recetas": [
+      {
+        "nombre": "Carne Mechada",
+        "producto_id": "MR7Q8GFX-5V3CCJ",
+        "rendimiento": 7,
+        "unidad_rendimiento": "bandejas",
+        "ingredientes": [
+          {
+            "materia_id": "MR7PV6TV-F3K7P9",
+            "nombre": "Carne para mechar",
+            "cantidad": 3,
+            "unidad": "kg"
+          },
+          {
+            "materia_id": "MR7Q2RKM-OIK905",
+            "nombre": "Envase 500gr",
+            "cantidad": 7,
+            "unidad": "und"
+          },
+          {
+            "materia_id": "MR7Q5G3T-JO8BCI",
+            "nombre": "Etiqueta Frontal",
+            "cantidad": 7,
+            "unidad": "und"
+          },
+          {
+            "materia_id": "MR7Q69CY-6DY3SJ",
+            "nombre": "Etiqueta Identificacion",
+            "cantidad": 7,
+            "unidad": "und"
+          },
+          {
+            "materia_id": "MR7QOHAB-QN5U7U",
+            "nombre": "Aliño ComoDcasa",
+            "cantidad": 0.36,
+            "unidad": "L"
+          },
+          {
+            "materia_id": "MR7QTN6X-K8YVW7",
+            "nombre": "Pasta de Tomate",
+            "cantidad": 0.36,
+            "unidad": "L"
+          },
+          {
+            "materia_id": "MR7QWLH9-OVGEG6",
+            "nombre": "Comino",
+            "cantidad": 5,
+            "unidad": "g"
+          }
+        ],
+        "estado": true,
+        "id": "MR7QR27X-CTKORW",
+        "createdAt": "2026-07-05T12:02:09.021Z",
+        "updatedAt": "2026-07-05T12:08:06.842Z"
+      }
+    ],
+    "compras": [],
+    "producciones": [
+      {
+        "numero": "OP-2026-0001",
+        "producto_id": "MR7Q8GFX-5V3CCJ",
+        "receta_id": "MR7QR27X-CTKORW",
+        "cantidad_planificada": 7,
+        "cantidad_producida": 7,
+        "estado": "completado",
+        "notas": "",
+        "vencimiento": "2026-07-05",
+        "lote_codigo": "L-20260705-001",
+        "costo_bom": 36.4783,
+        "costo_mano_obra": 0,
+        "costo_total": 36.4783,
+        "costo_unitario": 5.2112,
+        "responsable": "—",
+        "tasa": 667.05,
+        "id": "MR7R0NGY-TSNXVY",
+        "createdAt": "2026-07-05T12:09:36.466Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z",
+        "fechaInicio": "2026-07-05T12:10:11.827Z",
+        "notas_cierre": "",
+        "fechaFin": "2026-07-05T12:19:09.867Z"
+      }
+    ],
+    "lotes": [
+      {
+        "codigo": "L-20260705-001",
+        "producto_id": "MR7Q8GFX-5V3CCJ",
+        "orden_id": "MR7R0NGY-TSNXVY",
+        "orden_numero": "OP-2026-0001",
+        "cantidad": 7,
+        "costo_unitario": 5.211180000000001,
+        "vencimiento": "2026-07-05",
+        "id": "MR7RCXWS-S9S84X",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      }
+    ],
+    "ventas": [
+      {
+        "numero": "FAC-2026-0001",
+        "cliente_id": "MR7PU88A-ODW0GB",
+        "canal": "supermercado",
+        "estado": "cobrado",
+        "referencia": "",
+        "notas": "",
+        "items": [
+          {
+            "producto_id": "MR7Q8GFX-5V3CCJ",
+            "nombre": "Bandeja Carne Mechada 500gr",
+            "unidad": "unidad",
+            "cantidad": 4,
+            "precio_unitario": 9.5,
+            "costo_unitario": 0,
+            "costo_total": 0,
+            "total": 38
+          }
+        ],
+        "subtotal": 38,
+        "iva": 0,
+        "iva_rate": 0,
+        "total": 38,
+        "costo_total": 0,
+        "tasa": 667.05,
+        "id": "MR7R2I0L-QD8IRB",
+        "createdAt": "2026-07-05T12:11:02.709Z",
+        "updatedAt": "2026-07-05T12:11:02.709Z"
+      }
+    ],
+    "gastos": [],
+    "movimientos_inventario": [
+      {
+        "materia_id": "MR7PV6TV-F3K7P9",
+        "tipo": "salida",
+        "cantidad": 3,
+        "costo_unitario": 11.14,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-7WZ1DJ",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7Q2RKM-OIK905",
+        "tipo": "salida",
+        "cantidad": 7,
+        "costo_unitario": 0.1,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-9W5JZ9",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7Q5G3T-JO8BCI",
+        "tipo": "salida",
+        "cantidad": 7,
+        "costo_unitario": 0,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-6NK10D",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7Q69CY-6DY3SJ",
+        "tipo": "salida",
+        "cantidad": 7,
+        "costo_unitario": 0,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-IKA50E",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7QOHAB-QN5U7U",
+        "tipo": "salida",
+        "cantidad": 0.36,
+        "costo_unitario": 1,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWS-3Y6AF2",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "materia_id": "MR7QTN6X-K8YVW7",
+        "tipo": "salida",
+        "cantidad": 0.36,
+        "costo_unitario": 5.291,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWS-AQRLXI",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "materia_id": "MR7QWLH9-OVGEG6",
+        "tipo": "salida",
+        "cantidad": 5,
+        "costo_unitario": 0.0187,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWS-6C6JDM",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      }
+    ],
+    "configuracion": []
+  },
+  "config": {
+    "empresa": "ComoDCasa",
+    "moneda": "$",
+    "monedaSecundaria": "USD",
+    "tasaCambio": 667.05,
+    "iva": 16,
+    "version": "1.0.0",
+    "inicializado": true,
+    "rif": "",
+    "telefono": "",
+    "email": "",
+    "ciudad": "",
+    "direccion": "",
+    "decimales": 2,
+    "reordenGlobal": 20
+  }
+}

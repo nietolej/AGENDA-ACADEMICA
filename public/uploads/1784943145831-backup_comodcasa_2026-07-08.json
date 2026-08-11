@@ -1,0 +1,865 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-07-08T00:46:43.458Z",
+  "data": {
+    "clientes": [
+      {
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "nombre": "Supermercado El Patio",
+        "telefono": "0414-555-1001",
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "estado": true,
+        "direccion": "Centro Comercial Las Américas",
+        "id": "MQO2RG3D-CW1BXE",
+        "email": "compras@elpatio.com",
+        "rif": "J-11223344-5",
+        "canal": "supermercado"
+      },
+      {
+        "direccion": "Urb. La Trigaleña",
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "estado": true,
+        "telefono": "0416-555-3003",
+        "id": "MQO2RG3D-J2IY2H",
+        "nombre": "Familia García",
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "rif": "V-12345678",
+        "canal": "detal",
+        "email": ""
+      },
+      {
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "nombre": "Distribuidora Frozen Foods",
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "estado": true,
+        "telefono": "0424-555-2002",
+        "direccion": "Av. Bolívar, Caracas",
+        "id": "MQO2RG3D-LE9NBH",
+        "email": "pedidos@frozenfoodsve.com",
+        "rif": "J-55443322-1",
+        "canal": "mayorista"
+      },
+      {
+        "email": "pedidos@frozenfoodsve.com",
+        "canal": "mayorista",
+        "rif": "J-55443322-1",
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "nombre": "Distribuidora Frozen Foods",
+        "id": "MRBB3JGS-4S3O7Y",
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "estado": true,
+        "telefono": "0424-555-2002",
+        "direccion": "Av. Bolívar, Caracas"
+      },
+      {
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "nombre": "Supermercado El Patio",
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "estado": true,
+        "telefono": "0414-555-1001",
+        "direccion": "Centro Comercial Las Américas",
+        "id": "MRBB3JGS-7B2Y0P",
+        "email": "compras@elpatio.com",
+        "rif": "J-11223344-5",
+        "canal": "supermercado"
+      },
+      {
+        "rif": "V-12345678",
+        "canal": "detal",
+        "email": "",
+        "telefono": "0416-555-3003",
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "estado": true,
+        "direccion": "Urb. La Trigaleña",
+        "id": "MRBB3JGS-TTJB6O",
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "nombre": "Familia García"
+      },
+      {
+        "id": "MRBBQNGS-4A9D7B",
+        "direccion": "Urb. La Trigaleña",
+        "estado": true,
+        "updatedAt": "2026-07-08T00:13:00.364Z",
+        "telefono": "0416-555-3003",
+        "nombre": "Familia García",
+        "createdAt": "2026-07-08T00:13:00.364Z",
+        "canal": "detal",
+        "rif": "V-12345678",
+        "email": ""
+      },
+      {
+        "createdAt": "2026-07-08T00:13:00.364Z",
+        "nombre": "Distribuidora Frozen Foods",
+        "telefono": "0424-555-2002",
+        "estado": true,
+        "updatedAt": "2026-07-08T00:13:00.364Z",
+        "direccion": "Av. Bolívar, Caracas",
+        "id": "MRBBQNGS-V812NG",
+        "email": "pedidos@frozenfoodsve.com",
+        "rif": "J-55443322-1",
+        "canal": "mayorista"
+      },
+      {
+        "createdAt": "2026-07-08T00:13:00.364Z",
+        "nombre": "Supermercado El Patio",
+        "id": "MRBBQNGS-X00XEM",
+        "estado": true,
+        "telefono": "0414-555-1001",
+        "updatedAt": "2026-07-08T00:13:00.364Z",
+        "direccion": "Centro Comercial Las Américas",
+        "email": "compras@elpatio.com",
+        "canal": "supermercado",
+        "rif": "J-11223344-5"
+      }
+    ],
+    "proveedores": [
+      {
+        "nombre": "Supermercado Rio",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PKPR2-QY795U",
+        "createdAt": "2026-07-05T11:29:13.310Z",
+        "updatedAt": "2026-07-05T11:29:13.310Z"
+      },
+      {
+        "nombre": "Cooperativa de Alimentos Ujano",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PL8D2-B5K964",
+        "createdAt": "2026-07-05T11:29:37.430Z",
+        "updatedAt": "2026-07-05T11:29:37.430Z"
+      },
+      {
+        "nombre": "Todo Pollo",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "Carrera 27 entre calle 21 y 22",
+        "estado": true,
+        "id": "MR7PQGEN-ZG6NSF",
+        "createdAt": "2026-07-05T11:33:41.135Z",
+        "updatedAt": "2026-07-05T11:33:41.135Z"
+      },
+      {
+        "nombre": "Mari pepa",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PQXHA-P9MSNF",
+        "createdAt": "2026-07-05T11:34:03.262Z",
+        "updatedAt": "2026-07-05T11:34:03.262Z"
+      },
+      {
+        "nombre": "Saraplats",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7PRZFC-HB96OA",
+        "createdAt": "2026-07-05T11:34:52.440Z",
+        "updatedAt": "2026-07-05T11:34:52.440Z"
+      },
+      {
+        "nombre": "ComoDcasa",
+        "rif": "",
+        "telefono": "",
+        "email": "",
+        "direccion": "",
+        "estado": true,
+        "id": "MR7Q0GWR-BT5O7C",
+        "createdAt": "2026-07-05T11:41:28.347Z",
+        "updatedAt": "2026-07-05T11:41:28.347Z"
+      }
+    ],
+    "materias_primas": [
+      {
+        "punto_reorden": 20,
+        "proveedor_id": "MQO2RG39-7LR97P",
+        "stock_actual": 15,
+        "updatedAt": "2026-06-21T17:42:58.872Z",
+        "estado": true,
+        "id": "MQO2RG3C-53MH9B",
+        "unidad": "kg",
+        "nombre": "Queso Mozzarella",
+        "createdAt": "2026-06-21T17:42:58.872Z",
+        "costo_promedio": 35
+      },
+      {
+        "punto_reorden": 30,
+        "stock_actual": 120,
+        "updatedAt": "2026-06-21T17:42:58.872Z",
+        "estado": true,
+        "proveedor_id": "MQO2RG3C-HT9NEV",
+        "unidad": "kg",
+        "id": "MQO2RG3C-IY3Y8M",
+        "createdAt": "2026-06-21T17:42:58.872Z",
+        "nombre": "Pasta Lasaña Precocida",
+        "costo_promedio": 12
+      },
+      {
+        "unidad": "und",
+        "id": "MQO2RG3C-NW34IS",
+        "updatedAt": "2026-06-21T17:42:58.872Z",
+        "estado": true,
+        "stock_actual": 500,
+        "proveedor_id": "MQO2RG3C-HT9NEV",
+        "costo_promedio": 1.2,
+        "createdAt": "2026-06-21T17:42:58.872Z",
+        "nombre": "Bandeja Aluminio 500g",
+        "punto_reorden": 100
+      },
+      {
+        "stock_actual": 80,
+        "updatedAt": "2026-06-21T17:42:58.872Z",
+        "estado": true,
+        "proveedor_id": "MQO2RG3C-HT9NEV",
+        "unidad": "L",
+        "id": "MQO2RG3C-WPK5XM",
+        "createdAt": "2026-06-21T17:42:58.872Z",
+        "nombre": "Salsa Bechamel",
+        "costo_promedio": 8.75,
+        "punto_reorden": 20
+      },
+      {
+        "createdAt": "2026-06-21T17:42:58.872Z",
+        "nombre": "Pechuga de Pollo",
+        "costo_promedio": 18.5,
+        "updatedAt": "2026-06-21T17:42:58.872Z",
+        "estado": true,
+        "stock_actual": 250,
+        "proveedor_id": "MQO2RG39-7LR97P",
+        "unidad": "kg",
+        "id": "MQO2RG3C-X5WJFN",
+        "punto_reorden": 50
+      },
+      {
+        "id": "MRBB3JGQ-NMXO4G",
+        "unidad": "kg",
+        "proveedor_id": "MRBB3JGP-CWHGT3",
+        "estado": true,
+        "updatedAt": "2026-07-07T23:55:02.090Z",
+        "stock_actual": 250,
+        "costo_promedio": 18.5,
+        "nombre": "Pechuga de Pollo",
+        "createdAt": "2026-07-07T23:55:02.090Z",
+        "punto_reorden": 50
+      },
+      {
+        "punto_reorden": 100,
+        "proveedor_id": "MRBB3JGQ-KQIGZH",
+        "stock_actual": 500,
+        "updatedAt": "2026-07-07T23:55:02.091Z",
+        "estado": true,
+        "id": "MRBB3JGR-FBDJNM",
+        "unidad": "und",
+        "nombre": "Bandeja Aluminio 500g",
+        "createdAt": "2026-07-07T23:55:02.091Z",
+        "costo_promedio": 1.2
+      },
+      {
+        "unidad": "kg",
+        "id": "MRBB3JGR-OQRIBK",
+        "stock_actual": 120,
+        "updatedAt": "2026-07-07T23:55:02.091Z",
+        "estado": true,
+        "proveedor_id": "MRBB3JGQ-KQIGZH",
+        "costo_promedio": 12,
+        "createdAt": "2026-07-07T23:55:02.091Z",
+        "nombre": "Pasta Lasaña Precocida",
+        "punto_reorden": 30
+      },
+      {
+        "costo_promedio": 35,
+        "nombre": "Queso Mozzarella",
+        "createdAt": "2026-07-07T23:55:02.091Z",
+        "id": "MRBB3JGR-RJG7Z6",
+        "unidad": "kg",
+        "proveedor_id": "MRBB3JGP-CWHGT3",
+        "updatedAt": "2026-07-07T23:55:02.091Z",
+        "stock_actual": 15,
+        "estado": true,
+        "punto_reorden": 20
+      },
+      {
+        "nombre": "Salsa Bechamel",
+        "createdAt": "2026-07-07T23:55:02.091Z",
+        "costo_promedio": 8.75,
+        "proveedor_id": "MRBB3JGQ-KQIGZH",
+        "stock_actual": 80,
+        "updatedAt": "2026-07-07T23:55:02.091Z",
+        "estado": true,
+        "id": "MRBB3JGR-T1C0WU",
+        "unidad": "L",
+        "punto_reorden": 20
+      },
+      {
+        "punto_reorden": 50,
+        "estado": true,
+        "stock_actual": 250,
+        "updatedAt": "2026-07-08T00:13:00.361Z",
+        "proveedor_id": "MRBBQNGN-F69MH4",
+        "unidad": "kg",
+        "id": "MRBBQNGP-37SN0P",
+        "createdAt": "2026-07-08T00:13:00.361Z",
+        "nombre": "Pechuga de Pollo",
+        "costo_promedio": 18.5
+      },
+      {
+        "punto_reorden": 20,
+        "costo_promedio": 8.75,
+        "nombre": "Salsa Bechamel",
+        "createdAt": "2026-07-08T00:13:00.362Z",
+        "id": "MRBBQNGQ-3FIB58",
+        "unidad": "L",
+        "proveedor_id": "MRBBQNGP-H9MR39",
+        "updatedAt": "2026-07-08T00:13:00.362Z",
+        "estado": true,
+        "stock_actual": 80
+      },
+      {
+        "createdAt": "2026-07-08T00:13:00.362Z",
+        "nombre": "Pasta Lasaña Precocida",
+        "costo_promedio": 12,
+        "stock_actual": 120,
+        "updatedAt": "2026-07-08T00:13:00.362Z",
+        "estado": true,
+        "proveedor_id": "MRBBQNGP-H9MR39",
+        "unidad": "kg",
+        "id": "MRBBQNGQ-E9BPP1",
+        "punto_reorden": 30
+      },
+      {
+        "id": "MRBBQNGQ-SGTRK4",
+        "unidad": "und",
+        "proveedor_id": "MRBBQNGP-H9MR39",
+        "estado": true,
+        "stock_actual": 500,
+        "updatedAt": "2026-07-08T00:13:00.362Z",
+        "costo_promedio": 1.2,
+        "nombre": "Bandeja Aluminio 500g",
+        "createdAt": "2026-07-08T00:13:00.362Z",
+        "punto_reorden": 100
+      },
+      {
+        "punto_reorden": 20,
+        "costo_promedio": 35,
+        "createdAt": "2026-07-08T00:13:00.362Z",
+        "nombre": "Queso Mozzarella",
+        "unidad": "kg",
+        "id": "MRBBQNGQ-XKLVWW",
+        "updatedAt": "2026-07-08T00:13:00.362Z",
+        "stock_actual": 15,
+        "estado": true,
+        "proveedor_id": "MRBBQNGN-F69MH4"
+      }
+    ],
+    "productos": [
+      {
+        "nombre": "Bandeja Carne Mechada 500gr",
+        "descripcion": "Carne Mechada",
+        "unidad": "unidad",
+        "costo_produccion": 5.2112,
+        "precios": {
+          "mayorista": 0,
+          "detal": 9.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 7,
+        "id": "MR7Q8GFX-5V3CCJ",
+        "createdAt": "2026-07-05T11:47:40.989Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "nombre": "Bandeja Pollo Mechado 500gr",
+        "descripcion": "Bandeja de Pollo Mechado 500 gramos",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 8.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QAHIO-DV5XSF",
+        "createdAt": "2026-07-05T11:49:15.696Z",
+        "updatedAt": "2026-07-05T11:53:01.910Z"
+      },
+      {
+        "nombre": "Bandeja Salsa Boloña 500gr",
+        "descripcion": "",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 8,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QC06Q-ABTYJL",
+        "createdAt": "2026-07-05T11:50:26.546Z",
+        "updatedAt": "2026-07-05T11:53:14.398Z"
+      },
+      {
+        "nombre": "Bandeja Cazon 500gr",
+        "descripcion": "",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 8.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QD9WJ-LPSY70",
+        "createdAt": "2026-07-05T11:51:25.795Z",
+        "updatedAt": "2026-07-05T11:53:25.959Z"
+      },
+      {
+        "nombre": "Bandeja Caraotas negras 500gr",
+        "descripcion": "",
+        "unidad": "unidad",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 3,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QDWHW-YPJTYM",
+        "createdAt": "2026-07-05T11:51:55.076Z",
+        "updatedAt": "2026-07-05T11:53:37.199Z"
+      },
+      {
+        "nombre": "Bandeja de Pernil 500gr",
+        "descripcion": "",
+        "unidad": "bandeja",
+        "costo_produccion": 0,
+        "precios": {
+          "mayorista": 0,
+          "detal": 9.5,
+          "supermercado": 0
+        },
+        "precios_list": [],
+        "estado": true,
+        "stock_actual": 0,
+        "id": "MR7QGY1S-4H82M3",
+        "createdAt": "2026-07-05T11:54:17.056Z",
+        "updatedAt": "2026-07-05T11:54:17.056Z"
+      }
+    ],
+    "empleados": [
+      {
+        "estado": true,
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "salario": 450,
+        "id": "MQO2RG3D-181XSE",
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "cedula": "V-15678901",
+        "nombre": "María González",
+        "cargo": "Operaria de Producción"
+      },
+      {
+        "estado": true,
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "salario": 400,
+        "id": "MQO2RG3D-6TR7T1",
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "cedula": "V-22456789",
+        "nombre": "Ana Pérez",
+        "cargo": "Vendedora"
+      },
+      {
+        "nombre": "Carlos Rodríguez",
+        "cedula": "V-18234567",
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "cargo": "Supervisor de Planta",
+        "estado": true,
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "id": "MQO2RG3D-C0FB4U",
+        "salario": 750
+      },
+      {
+        "estado": true,
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "id": "MRBB3JGS-6L6T1U",
+        "salario": 750,
+        "nombre": "Carlos Rodríguez",
+        "cedula": "V-18234567",
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "cargo": "Supervisor de Planta"
+      },
+      {
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "estado": true,
+        "salario": 450,
+        "id": "MRBB3JGS-A8654F",
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "cedula": "V-15678901",
+        "nombre": "María González",
+        "cargo": "Operaria de Producción"
+      },
+      {
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "estado": true,
+        "id": "MRBB3JGS-MPH27B",
+        "salario": 400,
+        "nombre": "Ana Pérez",
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "cedula": "V-22456789",
+        "cargo": "Vendedora"
+      },
+      {
+        "cargo": "Operaria de Producción",
+        "cedula": "V-15678901",
+        "createdAt": "2026-07-08T00:13:00.364Z",
+        "nombre": "María González",
+        "salario": 450,
+        "id": "MRBBQNGS-DJYKNW",
+        "updatedAt": "2026-07-08T00:13:00.364Z",
+        "estado": true
+      },
+      {
+        "id": "MRBBQNGS-EQ209W",
+        "salario": 400,
+        "updatedAt": "2026-07-08T00:13:00.364Z",
+        "estado": true,
+        "cargo": "Vendedora",
+        "nombre": "Ana Pérez",
+        "cedula": "V-22456789",
+        "createdAt": "2026-07-08T00:13:00.364Z"
+      },
+      {
+        "estado": true,
+        "updatedAt": "2026-07-08T00:13:00.364Z",
+        "salario": 750,
+        "id": "MRBBQNGS-U8NR9W",
+        "createdAt": "2026-07-08T00:13:00.364Z",
+        "cedula": "V-18234567",
+        "nombre": "Carlos Rodríguez",
+        "cargo": "Supervisor de Planta"
+      }
+    ],
+    "recetas": [
+      {
+        "createdAt": "2026-06-21T17:42:58.873Z",
+        "rendimiento": 20,
+        "nombre": "Receta Lasaña Pollo y Champiñones",
+        "updatedAt": "2026-06-21T17:42:58.873Z",
+        "estado": true,
+        "id": "MQO2RG3D-PZREDD",
+        "unidad_rendimiento": "bandejas",
+        "producto_id": "MQO2RG3C-W0BNCV",
+        "ingredientes": [
+          {
+            "cantidad": 2,
+            "nombre": "Pasta Lasaña Precocida",
+            "unidad": "kg",
+            "materia_id": "MQO2RG3C-IY3Y8M"
+          },
+          {
+            "unidad": "kg",
+            "materia_id": "MQO2RG3C-X5WJFN",
+            "cantidad": 3,
+            "nombre": "Pechuga de Pollo"
+          },
+          {
+            "materia_id": "MQO2RG3C-WPK5XM",
+            "unidad": "L",
+            "nombre": "Salsa Bechamel",
+            "cantidad": 2
+          },
+          {
+            "materia_id": "MQO2RG3C-53MH9B",
+            "unidad": "kg",
+            "nombre": "Queso Mozzarella",
+            "cantidad": 1.5
+          },
+          {
+            "nombre": "Bandeja Aluminio 500g",
+            "cantidad": 20,
+            "materia_id": "MQO2RG3C-NW34IS",
+            "unidad": "und"
+          }
+        ]
+      },
+      {
+        "nombre": "Receta Lasaña Pollo y Champiñones",
+        "rendimiento": 20,
+        "createdAt": "2026-07-07T23:55:02.092Z",
+        "updatedAt": "2026-07-07T23:55:02.092Z",
+        "estado": true,
+        "id": "MRBB3JGS-CWJVH5",
+        "producto_id": "MRBB3JGR-VZTHE7",
+        "unidad_rendimiento": "bandejas",
+        "ingredientes": [
+          {
+            "materia_id": "MRBB3JGR-OQRIBK",
+            "unidad": "kg",
+            "cantidad": 2,
+            "nombre": "Pasta Lasaña Precocida"
+          },
+          {
+            "nombre": "Pechuga de Pollo",
+            "cantidad": 3,
+            "materia_id": "MRBB3JGQ-NMXO4G",
+            "unidad": "kg"
+          },
+          {
+            "nombre": "Salsa Bechamel",
+            "cantidad": 2,
+            "unidad": "L",
+            "materia_id": "MRBB3JGR-T1C0WU"
+          },
+          {
+            "nombre": "Queso Mozzarella",
+            "cantidad": 1.5,
+            "materia_id": "MRBB3JGR-RJG7Z6",
+            "unidad": "kg"
+          },
+          {
+            "materia_id": "MRBB3JGR-FBDJNM",
+            "unidad": "und",
+            "cantidad": 20,
+            "nombre": "Bandeja Aluminio 500g"
+          }
+        ]
+      },
+      {
+        "estado": true,
+        "updatedAt": "2026-07-08T00:13:00.363Z",
+        "id": "MRBBQNGR-RVCCS9",
+        "nombre": "Receta Lasaña Pollo y Champiñones",
+        "rendimiento": 20,
+        "createdAt": "2026-07-08T00:13:00.363Z",
+        "producto_id": "MRBBQNGR-KL399O",
+        "unidad_rendimiento": "bandejas",
+        "ingredientes": [
+          {
+            "unidad": "kg",
+            "materia_id": "MRBBQNGQ-E9BPP1",
+            "nombre": "Pasta Lasaña Precocida",
+            "cantidad": 2
+          },
+          {
+            "nombre": "Pechuga de Pollo",
+            "cantidad": 3,
+            "unidad": "kg",
+            "materia_id": "MRBBQNGP-37SN0P"
+          },
+          {
+            "materia_id": "MRBBQNGQ-3FIB58",
+            "unidad": "L",
+            "cantidad": 2,
+            "nombre": "Salsa Bechamel"
+          },
+          {
+            "materia_id": "MRBBQNGQ-XKLVWW",
+            "unidad": "kg",
+            "cantidad": 1.5,
+            "nombre": "Queso Mozzarella"
+          },
+          {
+            "unidad": "und",
+            "materia_id": "MRBBQNGQ-SGTRK4",
+            "nombre": "Bandeja Aluminio 500g",
+            "cantidad": 20
+          }
+        ]
+      }
+    ],
+    "compras": [],
+    "producciones": [
+      {
+        "numero": "OP-2026-0001",
+        "producto_id": "MR7Q8GFX-5V3CCJ",
+        "receta_id": "MR7QR27X-CTKORW",
+        "cantidad_planificada": 7,
+        "cantidad_producida": 7,
+        "estado": "completado",
+        "notas": "",
+        "vencimiento": "2026-07-05",
+        "lote_codigo": "L-20260705-001",
+        "costo_bom": 36.4783,
+        "costo_mano_obra": 0,
+        "costo_total": 36.4783,
+        "costo_unitario": 5.2112,
+        "responsable": "—",
+        "tasa": 667.05,
+        "id": "MR7R0NGY-TSNXVY",
+        "createdAt": "2026-07-05T12:09:36.466Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z",
+        "fechaInicio": "2026-07-05T12:10:11.827Z",
+        "notas_cierre": "",
+        "fechaFin": "2026-07-05T12:19:09.867Z"
+      }
+    ],
+    "lotes": [
+      {
+        "codigo": "L-20260705-001",
+        "producto_id": "MR7Q8GFX-5V3CCJ",
+        "orden_id": "MR7R0NGY-TSNXVY",
+        "orden_numero": "OP-2026-0001",
+        "cantidad": 7,
+        "costo_unitario": 5.211180000000001,
+        "vencimiento": "2026-07-05",
+        "id": "MR7RCXWS-S9S84X",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      }
+    ],
+    "ventas": [
+      {
+        "numero": "FAC-2026-0001",
+        "cliente_id": "MR7PU88A-ODW0GB",
+        "canal": "supermercado",
+        "estado": "cobrado",
+        "referencia": "",
+        "notas": "",
+        "items": [
+          {
+            "producto_id": "MR7Q8GFX-5V3CCJ",
+            "nombre": "Bandeja Carne Mechada 500gr",
+            "unidad": "unidad",
+            "cantidad": 4,
+            "precio_unitario": 9.5,
+            "costo_unitario": 0,
+            "costo_total": 0,
+            "total": 38
+          }
+        ],
+        "subtotal": 38,
+        "iva": 0,
+        "iva_rate": 0,
+        "total": 38,
+        "costo_total": 0,
+        "tasa": 667.05,
+        "id": "MR7R2I0L-QD8IRB",
+        "createdAt": "2026-07-05T12:11:02.709Z",
+        "updatedAt": "2026-07-05T12:11:02.709Z"
+      }
+    ],
+    "gastos": [],
+    "movimientos_inventario": [
+      {
+        "materia_id": "MR7PV6TV-F3K7P9",
+        "tipo": "salida",
+        "cantidad": 3,
+        "costo_unitario": 11.14,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-7WZ1DJ",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7Q2RKM-OIK905",
+        "tipo": "salida",
+        "cantidad": 7,
+        "costo_unitario": 0.1,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-9W5JZ9",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7Q5G3T-JO8BCI",
+        "tipo": "salida",
+        "cantidad": 7,
+        "costo_unitario": 0,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-6NK10D",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7Q69CY-6DY3SJ",
+        "tipo": "salida",
+        "cantidad": 7,
+        "costo_unitario": 0,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWR-IKA50E",
+        "createdAt": "2026-07-05T12:19:09.867Z",
+        "updatedAt": "2026-07-05T12:19:09.867Z"
+      },
+      {
+        "materia_id": "MR7QOHAB-QN5U7U",
+        "tipo": "salida",
+        "cantidad": 0.36,
+        "costo_unitario": 1,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWS-3Y6AF2",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "materia_id": "MR7QTN6X-K8YVW7",
+        "tipo": "salida",
+        "cantidad": 0.36,
+        "costo_unitario": 5.291,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWS-AQRLXI",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      },
+      {
+        "materia_id": "MR7QWLH9-OVGEG6",
+        "tipo": "salida",
+        "cantidad": 5,
+        "costo_unitario": 0.0187,
+        "motivo": "Producción OP-2026-0001",
+        "stock_resultante": 0,
+        "produccion_id": "MR7R0NGY-TSNXVY",
+        "id": "MR7RCXWS-6C6JDM",
+        "createdAt": "2026-07-05T12:19:09.868Z",
+        "updatedAt": "2026-07-05T12:19:09.868Z"
+      }
+    ],
+    "configuracion": []
+  },
+  "config": {
+    "email": "",
+    "tasaCambio": 685.9427,
+    "empresa": "ComoDCasa",
+    "direccion": "",
+    "telefono": "",
+    "rif": "",
+    "moneda": "$",
+    "inicializado": true,
+    "ciudad": "",
+    "iva": 16,
+    "monedaSecundaria": "USD",
+    "reordenGlobal": 20,
+    "version": "1.0.0",
+    "decimales": 2
+  }
+}

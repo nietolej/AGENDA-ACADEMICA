@@ -1,0 +1,95 @@
+[
+  {
+    "titulo": "x",
+    "descripcion": "",
+    "id": "sub_4254771e-6519-4102-90c0-2b8d175947ba",
+    "materiaId": "mat_8230b0d5-409c-4e0b-b8a9-b5ff96e3e8f5",
+    "archivos": [
+      {
+        "id": "file_1784943138311",
+        "nombre": "backup_comodcasa_2026-07-05.json",
+        "url": "/uploads/1784943138278-backup_comodcasa_2026-07-05.json",
+        "tipo": "application/json",
+        "tamanoBytes": 15188
+      },
+      {
+        "id": "file_1784943145834",
+        "nombre": "backup_comodcasa_2026-07-08.json",
+        "url": "/uploads/1784943145831-backup_comodcasa_2026-07-08.json",
+        "tipo": "application/json",
+        "tamanoBytes": 25536
+      },
+      {
+        "id": "file_1784943152497",
+        "nombre": "Git-2.55.0.2-64-bit.exe",
+        "url": "/uploads/1784943152440-Git-2.55.0.2-64-bit.exe",
+        "tipo": "application/x-msdownload",
+        "tamanoBytes": 65449488
+      },
+      {
+        "id": "file_1784943158235",
+        "nombre": "node-v24.18.0-x64.msi",
+        "url": "/uploads/1784943158201-node-v24.18.0-x64.msi",
+        "tipo": "application/octet-stream",
+        "tamanoBytes": 32874496
+      }
+    ],
+    "fechaCreacion": "2026-07-25T01:31:55.128Z"
+  },
+  {
+    "titulo": "POLINOMIOS",
+    "descripcion": "",
+    "id": "sub_97a1025f-e51a-4e16-b8c9-9a3c8a019564",
+    "materiaId": "mat_a570fcf5-4674-46a9-9164-e8c2c235b3c7",
+    "archivos": [
+      {
+        "id": "file_1785038346776",
+        "nombre": "WhatsApp Image 2026-07-05 at 7.32.27 AM.jpeg",
+        "url": "/uploads/1785038346774-WhatsApp Image 2026-07-05 at 7.32.27 AM.jpeg",
+        "tipo": "image/jpeg",
+        "tamanoBytes": 74134
+      }
+    ],
+    "fechaCreacion": "2026-07-25T02:37:42.452Z",
+    "colorHex": "#547eab",
+    "textColorHex": "#547eab"
+  },
+  {
+    "titulo": "QUIMICA ORGANICA",
+    "descripcion": "",
+    "id": "sub_027af954-f6e1-4789-9e1e-965275f540a3",
+    "materiaId": "mat_7677ce37-1a73-4e33-a18a-d672e9d72047",
+    "archivos": [
+      {
+        "id": "file_1784951026535",
+        "nombre": "backup_comodcasa_2026-07-05.json",
+        "url": "/uploads/1784951026534-backup_comodcasa_2026-07-05.json",
+        "tipo": "application/json",
+        "tamanoBytes": 15188
+      }
+    ],
+    "fechaCreacion": "2026-07-25T03:43:39.040Z"
+  },
+  {
+    "titulo": "ALGORITMOS",
+    "descripcion": "",
+    "colorHex": "#8fc5ff",
+    "imagenUrl": "",
+    "textColorHex": "#8fc5ff",
+    "id": "sub_fe1ed3e7-2006-4e05-a658-db0c031e29f3",
+    "materiaId": "mat_a570fcf5-4674-46a9-9164-e8c2c235b3c7",
+    "archivos": [],
+    "fechaCreacion": "2026-07-26T04:04:42.361Z"
+  },
+  {
+    "titulo": "ALGERBRA",
+    "descripcion": "",
+    "colorHex": "#072d55",
+    "imagenUrl": "",
+    "textColorHex": "#072d55",
+    "id": "sub_6ad704e9-25cd-4047-a61b-731cb3bc3bf7",
+    "materiaId": "mat_a570fcf5-4674-46a9-9164-e8c2c235b3c7",
+    "archivos": [],
+    "fechaCreacion": "2026-07-26T04:05:21.650Z"
+  }
+]
