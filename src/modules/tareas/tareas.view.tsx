@@ -39,7 +39,7 @@ export default function TareasView() {
   const progressPct = tareas.length === 0 ? 0 : Math.round((completedTasks.length / tareas.length) * 100);
 
   const handleToggleEstado = async (tarea: Tarea) => {
-    const nuevoEstado = tarea.estado === 'listo' ? 'pendiente' : 'listo';
+    const nuevoEstado = (tarea.estado === 'listo' ? 'pendiente' : 'listo') as Tarea['estado'];
     try {
       const res = await fetch(`/api/tareas/${tarea.id}`, {
         method: 'PATCH',

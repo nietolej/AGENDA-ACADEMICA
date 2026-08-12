@@ -86,7 +86,7 @@ export default function InicioView() {
 
   // Alternar estado listo/pendiente de una tarea
   const handleToggleEstado = async (tarea: Tarea) => {
-    const nuevoEstado = tarea.estado === 'listo' ? 'pendiente' : 'listo';
+    const nuevoEstado = (tarea.estado === 'listo' ? 'pendiente' : 'listo') as Tarea['estado'];
     try {
       const res = await fetch(`/api/tareas/${tarea.id}`, {
         method: 'PATCH',
